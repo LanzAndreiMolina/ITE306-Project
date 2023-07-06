@@ -8,11 +8,9 @@ print("Last Name: Molina")
 print("Course: BS Information Technology")
 print("Year: 3rd year")
 print("Gender: Male")
-print("Civil Status: ")
+print("Civil Status: Single")
 print("Nationality: Filipino")
 print()
-print("Motto: Action speaks louder than voice")
+print("Motto: Actions speak louder than words.")
 print("PHINMA Araullo University")
 print("College: CITE")
-
-

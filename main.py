@@ -1,3 +1,7 @@
+# Sales Management System using .py function
+# Create database "dbstore"
+# Create table "tblsales" (ORNo varchar(15), Amount float(2))
+
 import mysql.connector
 
 mydb = mysql.connector.connect(
@@ -69,4 +73,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
